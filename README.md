@@ -200,6 +200,7 @@ This project is licensed under the MIT License - feel free to use for learning p
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0282-expression-add-operators](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0290-word-pattern](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0290-word-pattern/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -207,6 +208,7 @@ This project is licensed under the MIT License - feel free to use for learning p
 | [0002-add-two-numbers](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0282-expression-add-operators](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/gokulsaravanakkumar/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -224,4 +226,8 @@ This project is licensed under the MIT License - feel free to use for learning p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0282-expression-add-operators](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 <!---LeetCode Topics End-->
