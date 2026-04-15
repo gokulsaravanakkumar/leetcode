@@ -7,6 +7,7 @@ class Solution:
             while q:
                 node = q.pop()
                 for o in {'*','+','-',''}:
+
                     if node[-1] == '0' and o == '':
                         i = len(node)-1
                         while i >= 0 and node[i] == '0':
