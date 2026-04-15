@@ -199,6 +199,7 @@ This project is licensed under the MIT License - feel free to use for learning p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0290-word-pattern](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0290-word-pattern/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -210,4 +211,8 @@ This project is licensed under the MIT License - feel free to use for learning p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/gokulsaravanakkumar/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
