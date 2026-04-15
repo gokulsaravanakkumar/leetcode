@@ -193,9 +193,15 @@ This project is licensed under the MIT License - feel free to use for learning p
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0290-word-pattern](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0290-word-pattern/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0290-word-pattern](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0290-word-pattern/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
