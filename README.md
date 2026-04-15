@@ -187,3 +187,15 @@ This project is licensed under the MIT License - feel free to use for learning p
 
 **[⭐ Star this repo if it helped you!](https://github.com/gokulsaravanakkumar/leetcode)**
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0290-word-pattern/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0290-word-pattern/) | Easy |
+<!---LeetCode Topics End-->
