@@ -205,4 +205,9 @@ This project is licensed under the MIT License - feel free to use for learning p
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/gokulsaravanakkumar/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/gokulsaravanakkumar/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
