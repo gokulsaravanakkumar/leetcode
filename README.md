@@ -203,5 +203,6 @@ This project is licensed under the MIT License - feel free to use for learning p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
