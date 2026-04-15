@@ -204,6 +204,7 @@ This project is licensed under the MIT License - feel free to use for learning p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/gokulsaravanakkumar/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -215,4 +216,12 @@ This project is licensed under the MIT License - feel free to use for learning p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
