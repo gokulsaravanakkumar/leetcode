@@ -208,6 +208,7 @@ This project is licensed under the MIT License - feel free to use for learning p
 | [0002-add-two-numbers](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0282-expression-add-operators](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/gokulsaravanakkumar/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
@@ -230,4 +231,8 @@ This project is licensed under the MIT License - feel free to use for learning p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0282-expression-add-operators](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0282-expression-add-operators/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/gokulsaravanakkumar/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
